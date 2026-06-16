@@ -1,0 +1,7 @@
+# Only track cabinet_maker files
+*
+!.gitignore
+!cabinet_maker.rb
+!cabinet_maker/
+!cabinet_maker/calc.rb
+!cabinet_maker/test_calc.rb
